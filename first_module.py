@@ -2,8 +2,11 @@ import numpy as np
 
 def make_sqrt_12():
 
-    print(np.sqrt(12.0))
-    return np.sqrt(12.0)
+    val = np.sqrt(12.0)
+    print(val)
+
+    a = 2.0 + val
+    return a
 
 
 make_sqrt_12()
