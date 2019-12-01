@@ -1,0 +1,17 @@
+This document is to compile or share learning resources related to the project. If anything helpful is found it can be shared here. For machine learning I am currently following the structure of this tutorial below, but using other resources if they are better suited to beginners.
+https://www.tutorialspoint.com/tensorflow/index.htm
+
+Short overview on Machine Learning:
+https://www.tutorialspoint.com/tensorflow/tensorflow_machine_learning_deep_learning.htm
+
+
+----------------- Convolutional Neural Networks (CNN) -----------------
+-Many tutorials on machine learning seem to start on CNNs.
+
+This video is timestamped at the meaty descriptrion of what 'convolution' means in the context of image classification:
+https://youtu.be/YRhxdVk_sIs?t=220
+
+At about the 5:40 mark in the video above the presenter explains that the Convolutional layer is determined the dot product of two 3x3 matrices which confused me as I've never seen and couldn't find any example of the dot product of two matrices rather than vectors. I sanity checked with a calculator and found that the dot product was the sum of each respective index element multiplied by its corrosponding index in the other matrix.
+
+Blog post describing CNN: -Found it understandable after watching video above.
+https://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-tensorflow/
