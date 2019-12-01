@@ -4,6 +4,8 @@ https://www.tutorialspoint.com/tensorflow/index.htm
 Short overview on Machine Learning:
 https://www.tutorialspoint.com/tensorflow/tensorflow_machine_learning_deep_learning.htm
 
+Comprehensive guide to general Neural Networks:
+https://adventuresinmachinelearning.com/neural-networks-tutorial/
 
 ----------------- Convolutional Neural Networks (CNN) -----------------
 -Many tutorials on machine learning seem to start on CNNs.
