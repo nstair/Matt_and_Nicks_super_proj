@@ -1,6 +1,11 @@
 import matplotlib.pylab as plt
 import numpy as np
 
+#This network is based on and tested against (and verified)
+#with the example shown in section 3.2 of this tutorial:
+#   https://adventuresinmachinelearning.com/neural-networks-tutorial/
+#I wrote the function free-hand for practice, perhaps
+#it also has merits for reference as well.
 
 def sigmoid(x):
 	return 1 / (1 + np.exp(-x))
